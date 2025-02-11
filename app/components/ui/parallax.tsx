@@ -57,7 +57,7 @@ export const Parallax = ({
   return (
     <div
       ref={ref}
-      className="h-[250vh] py-40 overflow-hidden bg-black  antialiased relative flex flex-col self-auto [perspective:1000px] [transform-style:preserve-3d]"
+      className="h-auto py-40 overflow-hidden bg-black  antialiased relative flex flex-col self-auto [perspective:1000px] [transform-style:preserve-3d]"
     >
       <Header />
       <motion.div
