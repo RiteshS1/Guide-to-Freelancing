@@ -35,9 +35,9 @@ export const GoogleGeminiEffect = ({
         </button>
       </div> */}
       <svg
-        width="1440"
-        height="800"
-        viewBox="0 0 1440 800"
+        width="1920"
+        height="1080"
+        viewBox="0 0 1920 1080"
         xmlns="http://www.w3.org/2000/svg"
         className=" absolute -top-64 w-full "
       >
