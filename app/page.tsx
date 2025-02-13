@@ -17,11 +17,11 @@ export default function Home() {
           },
           {
             name: "About",
-            link: "/about",
+            link: "#About",
           },
           {
             name: "Contact",
-            link: "/contact",
+            link: "#Contact",
           },
         ]}
       />
